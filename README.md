@@ -1,2 +1,2 @@
 # draggableList
-draggable List in reactNative
+example of react-native-sortable-list
